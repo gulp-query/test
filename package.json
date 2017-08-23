@@ -8,8 +8,8 @@
   "dependencies": {
     "gulp": "^3.9.1",
     "gulp-query": "github:gulp-query/gulp-query",
-    "gulp-query-rollup": "file:./../gulp-query-rollup",
     "gulp-query-js": "github:gulp-query/gulp-query-js",
+    "gulp-query-rollup": "file:./../gulp-query-rollup",
     "gulp-query-scss": "github:gulp-query/gulp-query-scss",
     "gulp-query-webpack": "github:gulp-query/gulp-query-webpack"
   }
