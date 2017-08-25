@@ -8,6 +8,7 @@
   "dependencies": {
     "gulp": "^3.9.1",
     "gulp-query": "^1.0.0",
+    "gulp-query-compress": "^1.0.0",
     "gulp-query-copy": "^1.0.0",
     "gulp-query-js": "^1.0.0",
     "gulp-query-js-buble": "^1.0.1",
