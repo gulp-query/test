@@ -1,0 +1,37 @@
+$icons-sprite: "source_images/icons/*.png";
+
+.icon {
+  background-image: spritus-url($icons-sprite);
+  background-size: spritus-size($icons-sprite);
+}
+
+.icon-google {
+  background-position: spritus-position($icons-sprite, "google.png");
+  height: spritus-height($icons-sprite, "google.png");
+  width: spritus-width($icons-sprite, "google.png");
+}
+
+.icon-vk {
+  background-position: spritus-position($icons-sprite, "vk");
+  height: spritus-height($icons-sprite, "vk");
+  width: spritus-width($icons-sprite, "vk");
+}
+.icon-twitter {
+  spritus:phw($icons-sprite, "twitter");
+}
+
+$vk: "source_images/icons/vk.png?name=vkontakte";
+$twitter: "source_images/icons/twitter.png";
+
+.vk {
+  background-image: assetus-url($vk);
+  background-size: assetus-size($vk);
+  height: assetus-height($vk);
+  width: assetus-width($vk);
+}
+
+.facebook {
+  background-image: assetus-inline($twitter);
+  height: assetus-height($twitter);
+  width: assetus-width($twitter);
+}

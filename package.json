@@ -14,6 +14,7 @@
     "gulp-query-js-buble": "^1.0.1",
     "gulp-query-rollup": "^1.0.0",
     "gulp-query-scss": "^1.0.0",
+    "gulp-query-scss-images": "^1.0.0",
     "gulp-query-webpack": "^1.0.0",
     "gulp-query-webpack-buble": "^1.0.0"
   }
