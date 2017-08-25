@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "gulp-query-webpack-buble": "^1.0.0"
+  }
+}
