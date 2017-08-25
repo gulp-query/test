@@ -8,8 +8,10 @@
   "dependencies": {
     "gulp": "^3.9.1",
     "gulp-query": "^1.0.0",
+    "gulp-query-copy": "^1.0.0",
     "gulp-query-js": "^1.0.0",
     "gulp-query-js-buble": "^1.0.1",
+    "gulp-query-rollup": "^1.0.0",
     "gulp-query-scss": "^1.0.0",
     "gulp-query-webpack": "^1.0.0",
     "gulp-query-webpack-buble": "^1.0.0"
